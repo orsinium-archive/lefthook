@@ -6,7 +6,7 @@ to = {format = "setuppy", path = "setup.py"}
 module="lefthook"
 author="Gram (@orsinium)"
 author-email="master_fess@mail.ru"
-home-page="https://gitlab.com/life4/lefthook"
+home-page="https://github.com/life4/lefthook"
 requires-python=">=3.5"
 description-file="README.md"
 
