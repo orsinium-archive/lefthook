@@ -1,0 +1,14 @@
+[tool.dephell.main]
+from = {format = "flit", path = "pyproject.toml"}
+to = {format = "setuppy", path = "setup.py"}
+
+[tool.flit.metadata]
+module="lefthook"
+author="Gram (@orsinium)"
+author-email="master_fess@mail.ru"
+home-page="https://gitlab.com/life4/lefthook"
+requires-python=">=3.5"
+description-file="README.md"
+
+[tool.flit.metadata.urls]
+Lefthook = "https://github.com/Arkweid/lefthook"
